@@ -37,3 +37,5 @@ $ jupyter notebook
 and then run the `Testing.ipynb` notebook.
 
 **Note:** Make necessary changes in both `.py` or `.ipynb` files regarding what models to build or to test.
+
+**Note:** All of this has been done as a part of a 24hr hackathon in GEN511 course.
