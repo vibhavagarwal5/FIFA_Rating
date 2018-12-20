@@ -364,7 +364,7 @@ for i in range(df.shape[0]):
 # In[38]:
 
 
-# train, test = train_test_split(data_2, test_size=0.3, random_state=3, shuffle=True)
+# train, test = train_test_split(data_3, test_size=0.3, random_state=3, shuffle=True)
 # ytrain_ = train['overall']
 # Xtrain_ = train[features]
 # ytest_ = test['overall']
